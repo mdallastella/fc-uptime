@@ -1,7 +1,7 @@
 url: https://functional.cafe
-status: up
-code: 200
-responseTime: 1184
-lastUpdated: 2022-10-11T23:02:15.501Z
+status: down
+code: 502
+responseTime: 508
+lastUpdated: 2022-10-12T19:28:54.124Z
 startTime: Sat Jan 09 2021 17:56:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
