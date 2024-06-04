@@ -4,7 +4,7 @@
     "url": "https://functional.cafe",
     "icon": "https://icons.duckduckgo.com/ip3/functional.cafe.ico",
     "slug": "functional-cafe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 655,
     "timeYear": 689,
     "dailyMinutesDown": {
+      "2024-06-04": 0,
       "2023-07-06": 23
     }
   }
