@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/functional.cafe.ico",
     "slug": "functional-cafe",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 679,
-    "timeDay": 820,
-    "timeWeek": 727,
-    "timeMonth": 687,
-    "timeYear": 688,
+    "timeDay": 590,
+    "timeWeek": 731,
+    "timeMonth": 675,
+    "timeYear": 687,
     "dailyMinutesDown": {}
   }
 ]
