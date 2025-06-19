@@ -4,19 +4,19 @@
     "url": "https://functional.cafe",
     "icon": "https://icons.duckduckgo.com/ip3/functional.cafe.ico",
     "slug": "functional-cafe",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 708,
-    "timeDay": 780,
-    "timeWeek": 707,
-    "timeMonth": 713,
+    "timeDay": 681,
+    "timeWeek": 695,
+    "timeMonth": 709,
     "timeYear": 724,
     "dailyMinutesDown": {
-      "2025-06-19": 0,
+      "2025-06-19": 15,
       "2025-05-01": 45
     }
   }
